@@ -1,3 +1,5 @@
-# PE2 - programmeerproject
+# Zed's Dungeon
 
-[PE2 Programeerproject.pdf](documentation/PE02-Programmeerproject.pdf)
+A basic text-based RPG in C#. Enjoy.
+
+![Screenshot](https://github.com/vandekerckhovestijn/ZedsDungeon/blob/master/screenshot.png)
